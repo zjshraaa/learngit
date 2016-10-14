@@ -8,3 +8,7 @@ tornado¹ÙÍøÎÄµµ£ºhttp://www.tornadoweb.org/en/stable/
 
 https://github.com/cnAnonymous hosts
 https://github.com/racaljk hosts
+
+mongod --logpath "D:/mongodb/log/mongodb.log" --logappend --dbpath "D:/mongodb/data" --serviceName "MongoDB" --serviceDisplayName "MongoDB" --install
+
+mongod --logpath "D:/mongodb/log/mongodb.log" --logappend --dbpath "D:/mongodb/data" --serviceName "MongoDB" --serviceDisplayName "MongoDB" --remove
