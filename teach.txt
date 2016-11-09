@@ -12,3 +12,6 @@ https://github.com/racaljk hosts
 mongod --logpath "D:/mongodb/log/mongodb.log" --logappend --dbpath "D:/mongodb/data" --serviceName "MongoDB" --serviceDisplayName "MongoDB" --install
 
 mongod --logpath "D:/mongodb/log/mongodb.log" --logappend --dbpath "D:/mongodb/data" --serviceName "MongoDB" --serviceDisplayName "MongoDB" --remove
+
+git remote set-url origin ssh://git@221.226.241.45:61174/wangxiaolei/dhui100.git
+
